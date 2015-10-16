@@ -1,0 +1,20 @@
+{
+  "name": "drupal/tadaa",
+  "description": "Provides a simple mechanism to switch between different environments.",
+  "type": "drupal-module",
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/oddhill/d8-tadaa",
+  "authors": [
+    {
+      "name": "Christoffer Palm",
+      "email": "christoffer.palm@oddhill.se",
+      "homepage": "http://www.oddhill.se/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/oddhill/d8-tadaa/issues",
+    "source": "https://github.com/oddhill/d8-tadaa",
+    "docs": "https://github.com/oddhill/d8-tadaa"
+  }
+}

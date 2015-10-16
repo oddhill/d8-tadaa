@@ -1,0 +1,4 @@
+use tadaa:
+  title: 'Use Tadaa!'
+  description: 'Switch environments using Tadaa!'
+  restrict access: true

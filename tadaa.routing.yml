@@ -1,0 +1,13 @@
+tadaa.status:
+  path: '/admin/config/development/tadaa'
+  defaults:
+    _title: 'Tadaa!'
+  requirements:
+    _permission: 'use tadaa'
+
+tadaa.configure:
+  path: '/admin/config/development/tadaa/configure'
+  defaults:
+    _title: 'Tadaa!'
+  requirements:
+    _permission: 'use tadaa'
